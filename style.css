@@ -91,7 +91,7 @@ nav a:hover {
 
 /* Section Styles */
 .section {
-    padding-top: 150px; /* Adjust the top padding to avoid being hidden under the navbar */
+    padding-top: 170px; /* Adjust the top padding to avoid being hidden under the navbar */
 }
 
 h2 {
